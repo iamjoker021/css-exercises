@@ -1,0 +1,13 @@
+.yes, .no {
+    font-size: 35px;
+    font-family: monospace, sans-serif;
+}
+
+.yes {
+    background-color: #6fedae;
+}
+
+.no {
+    background-color: #000000;
+    color: white;
+}
