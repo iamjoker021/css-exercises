@@ -56,8 +56,6 @@ button {
 .popup-modal.show {
   opacity: 100%;
   pointer-events: all;
-  transition: opacity 1s ease-out, 
-              transform 1s;
   transform: translate(-50%, 100%);
 }
 
